@@ -1,5 +1,12 @@
 # 🛡️ Multiplayer Qoridor - Networked Board Game Architecture
 
+## Ekran Görüntüleri
+
+<img width="1519" height="1034" alt="Image" src="https://github.com/user-attachments/assets/358b572f-cc28-4bd7-a584-95f0e291c534" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/075a0bdd-6487-4c78-bfeb-58746f667727" />
+<img width="1818" height="865" alt="Image" src="https://github.com/user-attachments/assets/f821f09d-4aae-43cb-b583-13fb331ad02d" />
+
+
 Bu proje, strateji tabanlı **Qoridor** oyununun Unity motoru ve **Photon PUN 2** ağ mimarisi kullanılarak geliştirilmiş, gerçek zamanlı çok oyunculu (Multiplayer) bir versiyonudur. Proje sadece bir oyun değil; senkronizasyon, ağ otoritesi ve algoritmik yol doğrulama üzerine bir mühendislik çalışmasıdır.
 
 ---
@@ -47,11 +54,7 @@ Bu proje, strateji tabanlı **Qoridor** oyununun Unity motoru ve **Photon PUN 2*
 
 ---
 
-## Ekran Görüntüleri
 
-<img width="1519" height="1034" alt="Image" src="https://github.com/user-attachments/assets/358b572f-cc28-4bd7-a584-95f0e291c534" />
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/075a0bdd-6487-4c78-bfeb-58746f667727" />
-<img width="1818" height="865" alt="Image" src="https://github.com/user-attachments/assets/f821f09d-4aae-43cb-b583-13fb331ad02d" />
 
 ## 👨‍💻 Developer
 **Mehmet Emre Aksu** - Computer Engineering Student at Yıldız Technical University
