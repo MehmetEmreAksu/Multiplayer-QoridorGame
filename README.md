@@ -3,6 +3,11 @@
 Bu proje, strateji tabanlı **Qoridor** oyununun Unity motoru ve **Photon PUN 2** ağ mimarisi kullanılarak geliştirilmiş, gerçek zamanlı çok oyunculu (Multiplayer) bir versiyonudur. Proje sadece bir oyun değil; senkronizasyon, ağ otoritesi ve algoritmik yol doğrulama üzerine bir mühendislik çalışmasıdır.
 
 ---
+## Kontroller
+*    Direk olarak gidebileceğiniz kareye tıklayabilirsiniz.
+*    **Tab** - taktiksel kamera
+*    Duvarlara **Sol Tık** ile duvar yerleştirme yapabilirsiniz. **R** tuşu ile rotate edebilirsiniz. **Sağ Tık** ile duvar doymayı iptal edebilirsiniz.
+
 
 ## 🚀 Öne Çıkan Teknik Özellikler
 
@@ -39,7 +44,8 @@ Bu proje, strateji tabanlı **Qoridor** oyununun Unity motoru ve **Photon PUN 2*
 2.  Projeyi Unity Hub üzerinden açın.
 3.  `Photon/PhotonUnityNetworking/Resources` altındaki `PhotonServerSettings` dosyasından kendi **AppID**'nizi tanımlayın.
 4.  `Menu` sahnesini başlatın ve rakibinizle eşleşin!
-
+* Aynı AppID üzerinden GameOnline sahnesini sırasıyla çalıştırırsanız. Online olarak giriş yapacaktır. Daha sonrasında lobi mantığı ekleyerek oda numarasıyla giriş özelliği getirilecektir.
+* GameOffline sahnesini çalıştırırsanız aynı bilgisayar üzerinden oynayabilirsiniz
 ---
 
 ## 👨‍💻 Developer
